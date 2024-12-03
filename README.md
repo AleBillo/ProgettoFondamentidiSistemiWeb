@@ -1,2 +1,3 @@
 # SitoWeb
-Sito fatto per l'esame di web del primo anno universitario
+Sito fatto per l'esame di "Fondamenti di Sistemi Web" del 1° anno del corso: Tecnologie dei Sistemi Informatici 2023/2024 - Università di Bologna (Sede di Cesena)
+
