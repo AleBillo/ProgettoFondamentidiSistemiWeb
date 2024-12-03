@@ -1,0 +1,15 @@
+[
+    { "nome": "To Pimp a Butterfly", "genere": "Hip-Hop, Jazz Rap", "artista": "Kendrick Lamar", "nTracce": 16 },
+    { "nome": "In Rainbows", "genere": "Rock Alternativo, Elettronica", "artista": "Radiohead", "nTracce": 10 },
+    { "nome": "My Beautiful Dark Twisted Fantasy", "genere": "Hip-Hop, Pop, Rap", "artista": "Kanye West", "nTracce": 13 },
+    { "nome": "Nevermind", "genere": "Grunge, Rock Alternativo", "artista": "Nirvana", "nTracce": 12 },
+    { "nome": "Illmatic", "genere": "Hip-Hop, Gangster Rap", "artista": "Nas", "nTracce": 10 },
+    { "nome": "The Dark Side of the Moon", "genere": "Rock, Rock Sperimentale", "artista": "Pink Floyd", "nTracce": 9 },
+    { "nome": "All Eyez on Me", "genere": "Hip-Hop, Gangster Rap, G-Funk", "artista": "Tupac", "nTracce": 27 },
+    { "nome": "A Night at the Opera", "genere": "Rock, Opera, Pop", "artista": "Queen", "nTracce": 12 },
+    { "nome": "Demon Days", "genere": "Rock, Hip-Hop", "artista": "Gorillaz", "nTracce": 20 },
+    { "nome": "Emozioni", "genere": "Blues, Cantautorato", "artista": "Lucio Battisti", "nTracce": 12 },
+    { "nome": "All My Heroes Are Cornballs", "genere": "Rap, Punk-Rap", "artista": "JPEGMafia", "nTracce": 18 },
+    { "nome": "Ride the Lightning", "genere": "Heavy Metal", "artista": "Metallica", "nTracce": 8 }
+  ]
+  

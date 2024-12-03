@@ -1,0 +1,13 @@
+[
+    { "copertina": "media/link1.jpg", "nome": "Il Ragazzo e L'airone", "genere": "Animazione", "regista": "Hayao Miyazaki" },
+    { "copertina": "media/link10.jpg", "nome": "C'è ancora domani", "genere": "Commedia", "regista": "Paola Cortellesi" },
+    { "copertina": "media/link3.jpg", "nome": "Ferrari", "genere": "Biografico", "regista": "Michael Mann" },
+    { "copertina": "media/link8.jpg", "nome": "La Chimera", "genere": "Drammatico", "regista": "Alice Rohrwacher" },
+    { "copertina": "media/link4.jpg", "nome": "Perfect Days", "genere": "Drammatico", "regista": "Wim Wenders" },
+    { "copertina": "media/link5.jpg", "nome": "Maestro", "genere": "Biografico", "regista": "Bradley Cooper" },
+    { "copertina": "media/link6.jpg", "nome": "Godzilla:Minus One", "genere": "Avventura", "regista": "Takashi Yamazaki" },
+    { "copertina": "media/link7.jpg", "nome": "Kissing Gorbaciov", "genere": "Documentario", "regista": "Luigi D Alife" },
+    { "copertina": "media/link9.jpg", "nome": "Cento domeniche", "genere": "Commedia", "regista": "Antonio Albanese" },
+    { "copertina": "media/link2.jpg", "nome": "Wonka", "genere": "Avventura", "regista": "Paul King" }
+  ]
+  

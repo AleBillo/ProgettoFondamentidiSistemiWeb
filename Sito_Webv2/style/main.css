@@ -1,0 +1,114 @@
+
+.fontscritta{
+    font-size: small;
+}
+
+.decorazione{
+    text-decoration: none
+}
+
+
+
+
+.container {
+  padding: 16px;
+}
+
+
+input[type=dato1], input[type=dato2] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+
+
+
+.pulsante {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.pulsante:hover {
+  opacity:1;
+}
+
+input[type=dato1mod], input[type=dato2mod] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+  
+  
+ul {
+  list-style-type: none;
+  }
+  
+  
+  .pulsante2 {
+    background-color: orange;
+    color: white;
+    padding: 16px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+  }
+  
+  .pulsante2:hover {
+    opacity:1;
+  }
+
+
+
+.iconalink{
+  width: 20px;
+    float: left;
+    margin-right: 5px;
+}
+
+.btncustom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: 2px solid #6c757d;
+  color: black;
+  background-color: transparent;
+}
+
+.sfondoimmagine{
+
+  background-color: #0379c3;
+}
+
+.scritta{
+ font-size: larger;
+  color: black;
+  background-color: lightgrey;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.gattino {
+  width: 1000px; 
+}
+
+.img-icon {
+  width: 40px; /* Imposta la larghezza desiderata */
+  height: 40px; /* Imposta l'altezza desiderata */
+  cursor: pointer; /* Cambia il cursore al passaggio */
+}
